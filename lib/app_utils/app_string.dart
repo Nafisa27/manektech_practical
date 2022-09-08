@@ -1,0 +1,9 @@
+const String dashboardTitle = 'Shopping Mall';
+const String cartTitle = 'My Cart';
+const String noMoreData = 'No more products';
+const String totalItem = 'Total Item';
+const String addItem = 'Add item Successfully';
+const String grandTotal = 'Grand Total';
+const String price = 'Price';
+const String quantity = 'Quantity';
+const String someThingWentWrong = 'Some thing went wrong';
